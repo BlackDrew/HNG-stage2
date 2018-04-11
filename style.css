@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px
+}
+
+.header_text{
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.container{
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.date{
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
+.time{
+    font-size: 10rem;
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+}
+
+.meridian{
+    font-size: 5rem;
+    margin: 0rem;
+}
